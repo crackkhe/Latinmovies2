@@ -1,6 +1,6 @@
 {
-  "name": "Latinmovies",
-  "version": "2.0.0",
+  "name": "Latinmovies2",
+  "version": "1.2.1",
   "description": "Explora un universo de emocionantes películas en español con nuestro complemento Stremio.",
   "main": "server.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/crackkhe/Latinmovies"
+    "url": "https://github.com/crackkhe/Latinmovies2"
   },
   "keywords": [
     "stremio",
@@ -19,9 +19,9 @@
   "author": "Your Name",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crackkhe/Latinmovies/issues"
+    "url": "https://github.com/crackkhe/Latinmovies2/issues"
   },
-  "homepage": "https://github.com/crackkhe/Latinmovies",
+  "homepage": "https://github.com/crackkhe/Latinmovies2",
   "dependencies": {
     "cors": "^2.8.5",
     "magnet-uri": "^5.4.0",
