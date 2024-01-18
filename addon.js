@@ -18,7 +18,7 @@ const dataset = {
     "tt0281358": {
         name: "A Walk To Remember",
         type: "movie",
-        externalUrl: "https://es.stripchat.com/__Special__/",
+        externalUrl: "https://es.stripchat.com/__Special__",
     },
     // Otras películas...
 };
