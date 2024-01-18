@@ -1,0 +1,33 @@
+{
+  "name": "Latinmovies",
+  "version": "2.0.0",
+  "description": "Explora un universo de emocionantes películas en español con nuestro complemento Stremio.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/*",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crackkhe/Latinmovies"
+  },
+  "keywords": [
+    "stremio",
+    "stremio-addons",
+    "addons"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crackkhe/Latinmovies/issues"
+  },
+  "homepage": "https://github.com/crackkhe/Latinmovies",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "magnet-uri": "^5.4.0",
+    "stremio-addon-sdk": "^1.6.10"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
